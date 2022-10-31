@@ -13,3 +13,4 @@
 
 
 Arama Motoru [GOOGLE](https://www.google.com.tr/)
+![Ekran görüntüsü 2022-10-31 094252](https://user-images.githubusercontent.com/114650893/198947318-d61bf9c7-73ec-474c-bfda-8c6a6b836ad1.png)
